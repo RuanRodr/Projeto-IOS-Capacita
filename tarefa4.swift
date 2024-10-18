@@ -66,7 +66,6 @@ while(escolha != 0){
     print("entrada inválida")
   }
   
-
   print("Deseja fazer outra operação?")
   print("Depositar (1)")
   print("Sacar (2)")
